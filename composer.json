@@ -1,0 +1,11 @@
+{
+    "name": "vendor/mycomposer",
+    "description": "testcomposer",
+    "authors": [
+        {
+            "name": "MrZhr",
+            "email": "haoran.zeng@outlook.com"
+        }
+    ],
+    "require": {}
+}
